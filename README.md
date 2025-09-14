@@ -80,7 +80,7 @@ Best Random Forest Accuracy: 0.62
 ```
 
 Feature importance plot is saved as **`feature_importances.png`**.
-
+feature_importances.png
 
 ---
 
